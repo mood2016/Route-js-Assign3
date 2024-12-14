@@ -1,0 +1,8 @@
+body {
+    background: linear-gradient(to bottom right, #858484, #1e2121);
+}
+
+footer p {
+    font-size: 0.9rem;
+    margin: 0;
+}
